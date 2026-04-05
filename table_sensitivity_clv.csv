@@ -1,0 +1,73 @@
+Segment,Tier,Monthly Churn,CLV ($),Channel,CAC ($),CLV:CAC,Payback (mo),Viable
+Direct Bank,Tier 1,0.01,50072,LinkedIn,1461,34.27,1.6,True
+Direct Bank,Tier 1,0.01,50072,Google,802,62.43,0.9,True
+Direct Bank,Tier 1,0.01,50072,Events,840,59.61,0.9,True
+Direct Bank,Tier 1,0.01,50072,Referral,150,333.81,0.2,True
+Direct Bank,Tier 1,0.015,39174,LinkedIn,1461,26.81,1.6,True
+Direct Bank,Tier 1,0.015,39174,Google,802,48.85,0.9,True
+Direct Bank,Tier 1,0.015,39174,Events,840,46.64,0.9,True
+Direct Bank,Tier 1,0.015,39174,Referral,150,261.16,0.2,True
+Direct Bank,Tier 1,0.02,32173,LinkedIn,1461,22.02,1.6,True
+Direct Bank,Tier 1,0.02,32173,Google,802,40.12,0.9,True
+Direct Bank,Tier 1,0.02,32173,Events,840,38.3,0.9,True
+Direct Bank,Tier 1,0.02,32173,Referral,150,214.48,0.2,True
+Direct Bank,Tier 1,0.025,27294,LinkedIn,1461,18.68,1.6,True
+Direct Bank,Tier 1,0.025,27294,Google,802,34.03,0.9,True
+Direct Bank,Tier 1,0.025,27294,Events,840,32.49,0.9,True
+Direct Bank,Tier 1,0.025,27294,Referral,150,181.96,0.2,True
+Direct Bank,Tier 1,0.03,23700,LinkedIn,1461,16.22,1.6,True
+Direct Bank,Tier 1,0.03,23700,Google,802,29.55,0.9,True
+Direct Bank,Tier 1,0.03,23700,Events,840,28.21,0.9,True
+Direct Bank,Tier 1,0.03,23700,Referral,150,158.0,0.2,True
+Direct Bank,Tier 2,0.01,116835,LinkedIn,1461,79.97,0.7,True
+Direct Bank,Tier 2,0.01,116835,Google,802,145.68,0.4,True
+Direct Bank,Tier 2,0.01,116835,Events,840,139.09,0.4,True
+Direct Bank,Tier 2,0.01,116835,Referral,150,778.9,0.1,True
+Direct Bank,Tier 2,0.015,91407,LinkedIn,1461,62.56,0.7,True
+Direct Bank,Tier 2,0.015,91407,Google,802,113.97,0.4,True
+Direct Bank,Tier 2,0.015,91407,Events,840,108.82,0.4,True
+Direct Bank,Tier 2,0.015,91407,Referral,150,609.38,0.1,True
+Direct Bank,Tier 2,0.02,75069,LinkedIn,1461,51.38,0.7,True
+Direct Bank,Tier 2,0.02,75069,Google,802,93.6,0.4,True
+Direct Bank,Tier 2,0.02,75069,Events,840,89.37,0.4,True
+Direct Bank,Tier 2,0.02,75069,Referral,150,500.46,0.1,True
+Direct Bank,Tier 2,0.025,63686,LinkedIn,1461,43.59,0.7,True
+Direct Bank,Tier 2,0.025,63686,Google,802,79.41,0.4,True
+Direct Bank,Tier 2,0.025,63686,Events,840,75.82,0.4,True
+Direct Bank,Tier 2,0.025,63686,Referral,150,424.58,0.1,True
+Direct Bank,Tier 2,0.03,55301,LinkedIn,1461,37.85,0.7,True
+Direct Bank,Tier 2,0.03,55301,Google,802,68.95,0.4,True
+Direct Bank,Tier 2,0.03,55301,Events,840,65.83,0.4,True
+Direct Bank,Tier 2,0.03,55301,Referral,150,368.67,0.1,True
+Consultant,Tier 1,0.005,69369,LinkedIn,1461,47.48,1.6,True
+Consultant,Tier 1,0.005,69369,Google,802,86.49,0.9,True
+Consultant,Tier 1,0.005,69369,Events,840,82.58,0.9,True
+Consultant,Tier 1,0.005,69369,Referral,150,462.46,0.2,True
+Consultant,Tier 1,0.01,50072,LinkedIn,1461,34.27,1.6,True
+Consultant,Tier 1,0.01,50072,Google,802,62.43,0.9,True
+Consultant,Tier 1,0.01,50072,Events,840,59.61,0.9,True
+Consultant,Tier 1,0.01,50072,Referral,150,333.81,0.2,True
+Consultant,Tier 1,0.015,39174,LinkedIn,1461,26.81,1.6,True
+Consultant,Tier 1,0.015,39174,Google,802,48.85,0.9,True
+Consultant,Tier 1,0.015,39174,Events,840,46.64,0.9,True
+Consultant,Tier 1,0.015,39174,Referral,150,261.16,0.2,True
+Consultant,Tier 1,0.02,32173,LinkedIn,1461,22.02,1.6,True
+Consultant,Tier 1,0.02,32173,Google,802,40.12,0.9,True
+Consultant,Tier 1,0.02,32173,Events,840,38.3,0.9,True
+Consultant,Tier 1,0.02,32173,Referral,150,214.48,0.2,True
+Consultant,Tier 2,0.005,161860,LinkedIn,1461,110.79,0.7,True
+Consultant,Tier 2,0.005,161860,Google,802,201.82,0.4,True
+Consultant,Tier 2,0.005,161860,Events,840,192.69,0.4,True
+Consultant,Tier 2,0.005,161860,Referral,150,1079.07,0.1,True
+Consultant,Tier 2,0.01,116835,LinkedIn,1461,79.97,0.7,True
+Consultant,Tier 2,0.01,116835,Google,802,145.68,0.4,True
+Consultant,Tier 2,0.01,116835,Events,840,139.09,0.4,True
+Consultant,Tier 2,0.01,116835,Referral,150,778.9,0.1,True
+Consultant,Tier 2,0.015,91407,LinkedIn,1461,62.56,0.7,True
+Consultant,Tier 2,0.015,91407,Google,802,113.97,0.4,True
+Consultant,Tier 2,0.015,91407,Events,840,108.82,0.4,True
+Consultant,Tier 2,0.015,91407,Referral,150,609.38,0.1,True
+Consultant,Tier 2,0.02,75069,LinkedIn,1461,51.38,0.7,True
+Consultant,Tier 2,0.02,75069,Google,802,93.6,0.4,True
+Consultant,Tier 2,0.02,75069,Events,840,89.37,0.4,True
+Consultant,Tier 2,0.02,75069,Referral,150,500.46,0.1,True

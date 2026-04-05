@@ -1,0 +1,17 @@
+Segment,Tier,MRR ($),Monthly Churn,CLV ($),Max Viable CAC ($),Channel,CAC ($),CLV:CAC,Payback (mo),Within Budget
+Direct Bank,Tier 1,1200,1.5%,39174,13058,LinkedIn,1461,26.81,1.6,True
+Direct Bank,Tier 1,1200,1.5%,39174,13058,Google,802,48.85,0.9,True
+Direct Bank,Tier 1,1200,1.5%,39174,13058,Events,840,46.64,0.9,True
+Direct Bank,Tier 1,1200,1.5%,39174,13058,Referral,150,261.16,0.2,True
+Direct Bank,Tier 2,2800,1.5%,91407,30469,LinkedIn,1461,62.56,0.7,True
+Direct Bank,Tier 2,2800,1.5%,91407,30469,Google,802,113.97,0.4,True
+Direct Bank,Tier 2,2800,1.5%,91407,30469,Events,840,108.82,0.4,True
+Direct Bank,Tier 2,2800,1.5%,91407,30469,Referral,150,609.38,0.1,True
+Consultant,Tier 1,1200,0.8%,56341,18780,LinkedIn,1461,38.56,1.6,True
+Consultant,Tier 1,1200,0.8%,56341,18780,Google,802,70.25,0.9,True
+Consultant,Tier 1,1200,0.8%,56341,18780,Events,840,67.07,0.9,True
+Consultant,Tier 1,1200,0.8%,56341,18780,Referral,150,375.61,0.2,True
+Consultant,Tier 2,2800,0.8%,131462,43821,LinkedIn,1461,89.98,0.7,True
+Consultant,Tier 2,2800,0.8%,131462,43821,Google,802,163.92,0.4,True
+Consultant,Tier 2,2800,0.8%,131462,43821,Events,840,156.5,0.4,True
+Consultant,Tier 2,2800,0.8%,131462,43821,Referral,150,876.42,0.1,True
